@@ -10,7 +10,7 @@ Here is a list of docs I have created:
 - Instructor Training Guides & Presentations
 - Student Training Guides & Presentations
 
-
+<img width="1125" height="2001" alt="Image" src="https://github.com/user-attachments/assets/d9aa0154-4819-4edd-a394-bf07b7230296" />
 
 
 - 🌱 I’m currently learning Python for SQL and AI Ethics at a local college to upskill and supplment my CMU degree in Technical Writing plus a few decades of hands-on experience. 
