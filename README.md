@@ -10,8 +10,6 @@ Here is a list of docs I have created:
 - Instructor Training Guides & Presentations
 - Student Training Guides & Presentations
 
-| Before | After |
-| ------ | ----- |
 | ![Before]<img width="1125" height="2001" alt="Image" src="https://github.com/user-attachments/assets/d9aa0154-4819-4edd-a394-bf07b7230296" /> | ![After]![Image](https://github.com/user-attachments/assets/7b640ed7-be48-4165-92e7-f82ed44727e0)|
 
 <img width="1125" height="2001" alt="Image" src="https://github.com/user-attachments/assets/d9aa0154-4819-4edd-a394-bf07b7230296" />
@@ -25,6 +23,8 @@ Here is a list of docs I have created:
 |<img width="122" height="103" alt="Image" src="https://github.com/user-attachments/assets/891644ce-4fb0-49ee-acdf-760f0b9b731a" />| Cloud Doc |
 
 
+| Before | After |
+| ------ | ----- |
 
 <img width="201" height="134" alt="Image" src="https://github.com/user-attachments/assets/d174120e-815d-43e6-bcc6-87c269f7561e" />
 
