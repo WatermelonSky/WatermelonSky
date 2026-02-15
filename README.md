@@ -1,6 +1,17 @@
-## Hi there 👋
+#H1 **Portfolio of Carolyn McDonough**
 
-- 🔭 I’m currently working on upskilling as I am looking for my next role. 
+- 🔭Hello, if you found my site, you are probably looking for a tech writer. 
+
+Here is a list of docs I have created: 
+
+- API DOC
+- Customer Stories
+- User Guides
+- Instructor Training Guides & Presentations
+- Student Training Guides & Presentations
+
+
+
 
 - 🌱 I’m currently learning Python for SQL and AI Ethics at a local college to upskill and supplment my CMU degree in Technical Writing plus a few decades of hands-on experience. 
 
