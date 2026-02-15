@@ -10,6 +10,9 @@ Here is a list of docs I have created:
 - Instructor Training Guides & Presentations
 - Student Training Guides & Presentations
 
+WHAT YOU WORK ON: 
+TOOLS: 
+REACH ME: Please reach me via linkedin
 
 | Client/Employer | Result |
 | ------ | ----- |
