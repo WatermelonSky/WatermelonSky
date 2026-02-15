@@ -12,7 +12,7 @@ Here is a list of docs I have created:
 
 | Before | After |
 | ------ | ----- |
-| ![Before]<img width="1125" height="2001" alt="Image" src="https://github.com/user-attachments/assets/d9aa0154-4819-4edd-a394-bf07b7230296" /> | ![After](<img width="1125" height="2001" alt="Image" src="https://github.com/user-attachments/assets/d9aa0154-4819-4edd-a394-bf07b7230296" /> |
+| ![Before]<img width="1125" height="2001" alt="Image" src="https://github.com/user-attachments/assets/d9aa0154-4819-4edd-a394-bf07b7230296" /> | ![After]![Image](https://github.com/user-attachments/assets/7b640ed7-be48-4165-92e7-f82ed44727e0)|
 
 <img width="1125" height="2001" alt="Image" src="https://github.com/user-attachments/assets/d9aa0154-4819-4edd-a394-bf07b7230296" />
 
