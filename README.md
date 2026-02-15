@@ -10,6 +10,10 @@ Here is a list of docs I have created:
 - Instructor Training Guides & Presentations
 - Student Training Guides & Presentations
 
+| Before | After |
+| ------ | ----- |
+| ![Before]<img width="1125" height="2001" alt="Image" src="https://github.com/user-attachments/assets/d9aa0154-4819-4edd-a394-bf07b7230296" /> | ![After](<img width="1125" height="2001" alt="Image" src="https://github.com/user-attachments/assets/d9aa0154-4819-4edd-a394-bf07b7230296" /> |
+
 <img width="1125" height="2001" alt="Image" src="https://github.com/user-attachments/assets/d9aa0154-4819-4edd-a394-bf07b7230296" />
 
 
