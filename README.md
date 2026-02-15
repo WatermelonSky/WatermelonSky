@@ -18,8 +18,19 @@ Here is a list of docs I have created:
 
 | Client/Employer | Result |
 | ------ | ----- |
-|<img width="201" height="134" alt="Image" src="https://github.com/user-attachments/assets/336bdf73-bd5d-4be6-bf5a-0a6fe593746c" />) | API DOC
-| ![Before](images/<img width="201" height="134" alt="Image" src="https://github.com/user-attachments/assets/336bdf73-bd5d-4be6-bf5a-0a6fe593746c" />) | API DOC
+|<img width="201" height="134" alt="Image" src="https://github.com/user-attachments/assets/336bdf73-bd5d-4be6-bf5a-0a6fe593746c" />) | API DOC|
+| ![Before](images/<img width="201" height="134" alt="Image" src="https://github.com/user-attachments/assets/336bdf73-bd5d-4be6-bf5a-0a6fe593746c" />) | API DOC|
+|<img width="201" height="134" alt="Image" src="https://github.com/user-attachments/assets/d174120e-815d-43e6-bcc6-87c269f7561e" /> | User DOC |
+|<img width="128" height="31" alt="Image" src="https://github.com/user-attachments/assets/91a87e98-e113-461e-a1aa-053fe8c77300" /> | Information Architecture|
+|<img width="122" height="103" alt="Image" src="https://github.com/user-attachments/assets/891644ce-4fb0-49ee-acdf-760f0b9b731a" />| Cloud Doc |
+
+
+
+<img width="201" height="134" alt="Image" src="https://github.com/user-attachments/assets/d174120e-815d-43e6-bcc6-87c269f7561e" />
+
+<img width="128" height="31" alt="Image" src="https://github.com/user-attachments/assets/91a87e98-e113-461e-a1aa-053fe8c77300" />
+
+<img width="122" height="103" alt="Image" src="https://github.com/user-attachments/assets/891644ce-4fb0-49ee-acdf-760f0b9b731a" />
 
 - 🌱 I’m currently learning Python for SQL and AI Ethics at a local college to upskill and supplment my CMU degree in Technical Writing plus a few decades of hands-on experience. 
 
