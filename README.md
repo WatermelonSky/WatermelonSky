@@ -18,7 +18,7 @@ Here is a list of docs I have created:
 
 | Client/Employer | Result |
 | ------ | ----- |
-| ![Before](images/<img width="201" height="134" alt="Image" src="https://github.com/user-attachments/assets/336bdf73-bd5d-4be6-bf5a-0a6fe593746c" />) | API DOC
+|<img width="201" height="134" alt="Image" src="https://github.com/user-attachments/assets/336bdf73-bd5d-4be6-bf5a-0a6fe593746c" />) | API DOC
 | ![Before](images/<img width="201" height="134" alt="Image" src="https://github.com/user-attachments/assets/336bdf73-bd5d-4be6-bf5a-0a6fe593746c" />) | API DOC
 
 - 🌱 I’m currently learning Python for SQL and AI Ethics at a local college to upskill and supplment my CMU degree in Technical Writing plus a few decades of hands-on experience. 
